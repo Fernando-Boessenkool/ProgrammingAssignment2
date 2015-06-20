@@ -1,8 +1,5 @@
-## Put comments here that give an overall description of what your
-## functions do
-
-## The function makeCacheMatrix was define to cache a matrix and its inverse. The
-## inverse of the matrix cached in this function is solve by the cacheSolve function.
+## The function makeCacheMatrix was defined to cache a matrix and its inverse. The
+## inverse of the matrix cached in this function is solved by the cacheSolve function.
 ## This function receive a matrix as parameter. This function has the following me-
 ## thods: set a matrix, get the matrix that was setted, set and get the inverse of
 ## the matrix setted before.
